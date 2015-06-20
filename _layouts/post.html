@@ -1,20 +1,15 @@
 ---
 layout: default
+comments: true
 ---
 
 <article class="post">
   <h1 class="post-title">{{ page.title }}</h1>
   <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date: "%B %-d, %Y" }}</time>
   {{ content }}
-  If you enjoyed this post, please share!
-  <div class="ssk-group ssk-round">
-    <a href="https://twitter.com/share?text=Check%20out%20'{{ page.title }}'%20by%20Bo%20Peng&via=_bopeng&url={{ post.url }}" class="ssk ssk-twitter" target="_blank"></a>
-    <a href="http://www.facebook.com/sharer.php?u={{post.url}}&p[title]={{page.title}}" class="ssk ssk-facebook" target="_blank"></a>
-    <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" class="ssk ssk-google-plus" target="_blank"></a>
-    <a href="http://www.linkedin.com/shareArticle?mini=true&url={{post.url}}&title={{page.title}}&source=bopeng.io" class="ssk ssk-linkedin" target="_blank"></a>
-    <a href="http://www.tumblr.com/share/link?url={{post.url}}&name={{page.title}}&description=Bo%20Peng" class="ssk ssk-tumblr" target="_blank"></a>
-    <a href="http://www.reddit.com/submit?url={{post.url}}&title={{page.title}}" class="ssk ssk-reddit" target="_blank"></a>
-</div>
+  If you enjoyed this post, please share or comment below!
+  {% include social.html %}
+  {% include disqus.html %}
 </article>
 
 <aside class="related">
