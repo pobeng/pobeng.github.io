@@ -7,7 +7,7 @@ permalink: my-enactus-nationals-experience
 **What a difference a year makes.**
 
 ![Enactus Cover](/assets/enactus-cover.png)
-One year ago today I was counting down the days until high school graduation. Suffering from boredom and “senioritis”, I did my usual thing and scrolled through Facebook, hoping to find something remotely interesting. Fifteen minutes later, I managed to come across this [video.](https://www.youtube.com/watch?v=oPW25D0WQy8)
+One year ago today I was counting down the days until high school graduation. Suffering from boredom and "senioritis", I did my usual thing and scrolled through Facebook, hoping to find something remotely interesting. Fifteen minutes later, I managed to come across this [video.](https://www.youtube.com/watch?v=oPW25D0WQy8)
 
 I was probably thinking at the time "Interesting… A 23 minute long video with the title Enactus National Champions. What does Enactus even mean? There’s no chance my attention span is going to last for more than 5 minutes watching this." Little did I know this video was going to change my life. Anyways, I watched the first few minutes of the presentation and was instantly hooked to their passion and projects. If you haven’t watched Enactus Ryerson’s presentation yet, I would strongly recommend it. I will personally guarantee two things.
 
