@@ -27,7 +27,7 @@ author:
 # Custom vars
 version:             1.0.0
 github:              pobeng
-  repo:              https://github.com/pobeng/pobeng.github.io
+repo:                https://github.com/pobeng/pobeng.github.io
 
 # Top nav bar
 pages_list:
