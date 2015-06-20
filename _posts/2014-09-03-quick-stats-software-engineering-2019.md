@@ -4,9 +4,7 @@ title: Quick Stats Software Engineering Class of 2019
 permalink: quick-stats-software-engineering-2019
 ---
 
->Today was the Software Engineering 101 and luncheon activity.
-
-The program director, Andrew Morton, showed some stats about this year’s Software Engineering students.
+The program director, Andrew Morton, revealed some stats about this year’s Software Engineering students.
 
 **Enrolled/Applied:** 140 students vs 640 applicants
 

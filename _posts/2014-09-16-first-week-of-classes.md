@@ -10,6 +10,8 @@ permalink: first-week-of-classes
 
 Monday was the first day of class of my university career. I woke up quite late, so I barely made it to class on time. It sort of felt like the first day of high school when I was looking for an open seat. Except this time, I actually knew tons of people in my program beforehand. The professor “Mario” wasted no time in starting the MATH 115 (Linear Algebra for Engineers) lecture. It was really difficult to take notes and maintain focus at the back, so a couple of us went directly to the front and sat down on the ground. Next thing you know, the 50 minute lecture was over. We had an hour break until our next class, so we went to the SLC and chatted with our classmates. My classmates are pretty awesome people and I know I’m going to have a blast with them over the next five years. We’ll have our glorious moments together and also have those times of struggles. However, the one thing I dislike most about my classmates is the fact that we’re all super keeners who line up at the door 20 minutes before the class starts. Don’t expect a good seat if you arrive 10 minutes early.
 
+<!--more-->
+
 Afterwards, we had three consecutive lectures: MATH117 (Calculus), ECE105 (Physics), and ECE140 (Linear Circuits). These courses along with CS137 (Computer Science) and SE101 (Software Engineering  Course) seem pretty interesting at first glance — much better than the high school courses we were forced to take. I know I’m going to have to build a strong work ethic in order to thrive in this rigorous program. I’ll write an update post on these 6 courses in the future.
 
 The rest of the week was similar to Monday, tons of lectures and academics. I won’t comment too much about them because they’re quite boring!

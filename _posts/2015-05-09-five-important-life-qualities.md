@@ -9,6 +9,8 @@ In my opinion, this is the most important rule in life. Some people may know thi
 
 This is actually the easiest lesson to follow, but it astonishes me how many people in this world don’t know the meaning of respect. I plead for you to praise this rule because nobody wants to work with a disrespectful individual in academic or professional environments. *Hint* In job interviews, employers assess both your technical skills and fit with the company culture. For example, you could be the best software developer in the world, but if the employer doesn’t want to work with you, then you’re not getting the job.
 
+<!--more-->
+
 In job interviews, employers assess both your technical skills and fit with the company culture. For example, you could be the best software developer in the world, but if the employer doesn’t want to work with you, then you’re not getting the job.
 
 ## 2. Good isn’t good enough.

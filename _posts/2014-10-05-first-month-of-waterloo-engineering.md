@@ -12,6 +12,8 @@ My first month in university was incredible. Without a doubt, it was one of the 
 
 First thing's first, we go to university to learn and indulge in the world of academics. I’m studying Software Engineering, one of the most competitive and rigorous programs in Canada. I am taking six courses: linear algebra, calculus, linear circuits, physics, computer science and a Software Engineering course. This approximates to about 30 hours of class each week. I’ve attached my schedule below, and you can see that from Monday-Thursday I have class from 8:30AM-6:00PM. On Friday, it’s only 8:30AM-1:30PM. The blue represent my lectures, tutorials, labs and seminars. The purple represent due dates, office hours, and other miscellaneous events.
 
+<!--more-->
+
 ![engineering schedule](/assets/engineering-schedule.png)
 
 In each course, we either have weekly assignments, quizzes, labs, or a combination of the above. Fortunately, they’re only worth up to 20% of your mark, so doing poorly on one of them won’t kill your mark. They definitely teach you to properly manage your time and prepare you for the big midterm and final exams. As you can imagine, waking up to morning classes every single day is quite tiring. It’s important to get as much sleep as you can, but sometimes it’s quite difficult (unless you have a great work ethic). It’s essential to review your notes and do the assignments to ensure a good understanding of concepts.

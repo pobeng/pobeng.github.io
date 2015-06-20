@@ -8,6 +8,8 @@ An estimated total of over 11,000 people attended Waterloo’s Fall Open House 2
 
 ![fall open house 2014](/assets/fall-open-house.png)
 
+<!--more-->
+
 I remember how one year ago, I was the person asking the volunteers questions. Times have changed, and now I’m the  one who answers these questions and share my experience at Waterloo. I really enjoyed meeting so many passionate students and sharing my personal stories with them. Andrew Morton, the director of the Software Engineering program, gave a very informational presentation about our program.
 
 Although the room was always packed and boiling hot, each person learned something new about our program and had their questions addressed. At the end of every presentation, a few upper-year students and I would hold an open question and answer session for the whole crowd. I think having the current students talk about their experiences and answering the questions was a great supplement to the presentation.

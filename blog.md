@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Past Blog Posts
+title: Blog Posts
 ---
 
 {% for post in site.posts %}

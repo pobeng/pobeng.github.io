@@ -10,6 +10,7 @@ permalink: orientation-week-at-waterloo
 
 I participated in the scheduled orientation activities: Warrior Welcome and Playfair. Warrior Welcome was decent. It was basically a pep rally event trying to create Waterloo spirit. Playfair was surprisingly really fun. There were about two thousand first year students doing fun activities on the V1 Green. Some activities were really awkward, but that’s what makes it so fun.
 
+<!--more-->
 
 **Day 2:** My floor mates moved in on Monday (which woke me up urgh). They are really nice people! I’m looking forward to living with them for the next 8 months. Our building had a introduction meeting and played icebreakers to get to know each other. I recall playing a LOT of ping pong on this day. Aside from that, nothing interesting happened.
 

@@ -8,6 +8,8 @@ As I start my first day of university tomorrow, I’d like to share with you gra
 
 ![university application](/assets/ouac.png)
 
+<!--more-->
+
 ---
 
 ## Timeline

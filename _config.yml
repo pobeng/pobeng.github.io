@@ -8,7 +8,7 @@ relative_permalinks: true
 title:               Bo Peng
 tagline:             2A Software Engineering, University of Waterloo
 url:                 bopeng.io
-paginate:            1
+paginate:            4
 baseurl:             ""
 
 # Assets
@@ -22,15 +22,15 @@ sass:
 author:
   name:              Bo Peng
   url:               bopeng.io
-  email:             bo.peng@uwaterloo.ca
+  email:             me@bopeng.io
 
 # Custom vars
 version:             1.0.0
-github:
+github:              pobeng
   repo:              https://github.com/pobeng/pobeng.github.io
 
 # Top nav bar
 pages_list:
   About: '/about'
-  Archive: '/archive'
+  Blog: '/blog'
   Contact: '/contact'

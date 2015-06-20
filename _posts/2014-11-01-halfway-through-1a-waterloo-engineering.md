@@ -10,8 +10,9 @@ Here’s the highlights of my second month at Waterloo Engineering.
 
 ## Assignments, labs and, quizzes
 
-In our five core courses, we have weekly assignments, labs, and quizzes. Assignments are either done on paper or through online assessments. Some of them are quite challenging and trick; however, each one is only worth 1%. Quizzes are written during tutorials and test your understanding of the concepts. They’re usually only worth 1% each as well. Finally, in our ECE 140 (Linear Circuits) course, we have alternating labs and online quizzes, which are worth 3% and 1% each, respectively. As you can tell, assignments and quizzes make up only a small portion of your overall mark. This doesn’t mean you should fool around and not take them seriously. They are important because they test your knowledge and understanding of concepts, before the major midterm and final exams. If you’re doing poorly on them, you should immediately seek help and review your studying habits. Since there’s assignments, labs, and quizzes every single week, it always keep you busy.
+In our five core courses, we have weekly assignments, labs, and quizzes. Assignments are either done on paper or through online assessments. Some of them are quite challenging and tricky; however, each one is only worth 1%. Quizzes are written during tutorials and test your understanding of the concepts. They’re usually only worth 1% each as well. As you can tell, assignments and quizzes make up only a small portion of your overall mark. This doesn’t mean you should fool around and not take them seriously. They are important because they test your knowledge and understanding of concepts, before the major midterm and final exams. If you’re doing poorly on them, you should immediately seek help and review your studying habits. Since there’s assignments, labs, and quizzes every single week, it always keep you busy.
 
+<!--more-->
 
 ## Midterm week
 

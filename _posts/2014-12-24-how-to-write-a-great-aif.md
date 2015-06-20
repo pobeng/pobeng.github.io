@@ -8,6 +8,8 @@ For most programs at Waterloo, it is strongly recommended to fill out the admiss
 
 ![aif](/assets/aif-cover.png)
 
+<!--more-->
+
 ---
 
 ## My Story

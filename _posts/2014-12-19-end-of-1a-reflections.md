@@ -8,11 +8,13 @@ permalink: end-of-1a-reflections
 
 I’ve had a fair share of good and bad experiences throughout the term (mostly positive ones, but humans tend to focus on the negative events more). Let’s take a stroll down memory lane…
 
+![village one](/assets/village1.png)
+
+<!--more-->
+
 ## First two months at Waterloo
 
 [Moving into residence](/residence-move-in-day) and [orientation week](/orientation-week-at-waterloo) were amazing life experiences. It’s hard to describe the feeling in words, so you’ll have to trust me on this one. I highly recommend you to participate in these activities! [The first month of Waterloo Engineering](/first-month-of-waterloo-engineering) was an incredible experience as well. You can also read about my [midway post.](/halfway-through-1a-waterloo-engineering)
-
-![village one](/assets/village1.png)
 
 ## Engineering Ambassador and outreach events
 

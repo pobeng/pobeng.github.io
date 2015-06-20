@@ -4,15 +4,13 @@ title: Applying to Your First Co-op Job
 permalink: applying-to-your-first-coop-job
 ---
 
-<!-- <div class="message">
-  Hey world! It’s been a long time since I last posted. I apologize for this delay, but I’ve never been so busy in my life. I can’t believe that first year is going to be over in one month from now. Time flies.
-</div> -->
-
 >Hey world! It’s been a long time since I last posted. I apologize for this delay, but I’ve never been so busy in my life. I can’t believe that first year is going to be over in one month from now. Time flies.
 
 Today, I’ll be going over my experience applying to my first co-op job and providing tips to maximize your chances. This blog post will be tailored towards engineering and math students, though students of all faculties can benefit from reading this post.
 
 ![co-op](/assets/jobmine-cover.png)
+
+<!--more-->
 
 ---
 

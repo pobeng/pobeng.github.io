@@ -10,6 +10,8 @@ Over the past week, it has rained numerous times in Waterloo. As a result, many 
 
 HOWEVER…. orientation week was still a blast! Everyone kept a positive attitude and looked past the miserable weather. What made the week so fun was the awesome people I met. These people are going to be my future best friends, classmates, co-workers, significant others, or perhaps even future boss!
 
+<!--more-->
+
 What I’m trying to say is that you should always be an optimistic person and make the most out of unfortunate situations. Always try to maintain a positive attitude and have fun! Check out Shawn Achor’s TED Talk on the [Happy Secret to Better Work.](https://www.youtube.com/watch?v=fLJsdqxnZb0) He explains how changing your view of the world and life to a more positive one can increase both your happiness and productivity.
 
 
