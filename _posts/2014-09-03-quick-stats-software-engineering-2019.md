@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Quick Stats: Software Engineering Class of 2019
+title: Quick Stats Software Engineering Class of 2019
 permalink: quick-stats-software-engineering-2019
 ---
 

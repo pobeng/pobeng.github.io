@@ -40,6 +40,4 @@ The four finalists were University of Ottawa, St. Lawrence College, St. Mary’s
 
 I was invited to the Reception of Champions, which may have been the best part of my first Enactus Nationals experience. I had the opportunity to meet many of Enactus Ottawa’s dedicated members and learn from their experiences. I also had the chance to talk with members and faculty from exceptional Enactus programs: Lambton College, Ryerson University, University of Windsor, St. Mary’s University, and St. Lawrence College. I learned from a conversation with Ian Aitken (Founder and Chair of Enactus Canada) that he and Preston weren’t related. He also noted that in other Enactus Nationals, the two finalists are actually led on to the stage and then the winner is selected in a American Idol fashion. Finally, I met David Primmer, the donor of Enactus Rising Star Award. Awesome guy.
 
-Anyways, this was quite a long blog post. I’ve never been more inspired and I’m ready to take our Enactus Waterloo program to the next level. This is going to be one incredible year. Look what I found in Ottawa!
-
-![Enactus Cigbins](/assets/enactus-cigbins.png)
+Anyways, this was quite a long blog post. I’ve never been more inspired and I’m ready to take our Enactus Waterloo program to the next level. This is going to be one incredible year.
