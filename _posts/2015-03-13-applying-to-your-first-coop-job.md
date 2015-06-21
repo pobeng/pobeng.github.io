@@ -2,6 +2,8 @@
 layout: post
 title: Applying to Your First Co-op Job
 permalink: applying-to-your-first-coop-job
+description: I will go over my experience applying to my first co-op job and provide tips and strategy to maximize your chances. Projects. Resume. Apply. Interview. Offer.
+keywords: co-op, internship, job, resume, offer, interview, projects
 ---
 
 >Hey world! It’s been a long time since I last posted. I apologize for this delay, but I’ve never been so busy in my life. I can’t believe that first year is going to be over in one month from now. Time flies.

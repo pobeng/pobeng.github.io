@@ -2,6 +2,8 @@
 layout: post
 title: First Month of Waterloo Engineering
 permalink: first-month-of-waterloo-engineering
+description: My first month of Software Engineering at the University of Waterloo was incredible. Without a doubt, it was one of the best months of my life.
+keywords: software, engineering, waterloo, academics
 ---
 
 >Oh man, it’s October already? Time really does fly in university…

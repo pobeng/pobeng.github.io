@@ -2,6 +2,8 @@
 layout: post
 title: How to Write a Great AIF
 permalink: how-to-write-a-great-aif
+description: AIF is a required component of the Waterloo application process. By the end of this post, you will learn how to write a great AIF to optimize your chances.
+keywords: AIF, Waterloo, engineering, offer, write, application, great
 ---
 
 For most programs at Waterloo, it is strongly recommended to fill out the admission information form (AIF). By the end of this post, you guys will learn how the AIF may be the difference between an offer and rejection.

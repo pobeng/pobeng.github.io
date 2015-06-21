@@ -2,6 +2,8 @@
 layout: post
 title: The Rain Never Bothered Me Anyway
 permalink: the-rain-never-bothered-me-anyway
+description: This meta description never bothered me anyway. Dongyu Zheng rocks.
+keywords: waterloo, orientation
 ---
 
 There’s some things in this world you just can’t control. One of them is **rain.**

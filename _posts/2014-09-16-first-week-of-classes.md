@@ -2,6 +2,8 @@
 layout: post
 title: First Week of Classes
 permalink: first-week-of-classes
+description: Hey there everyone! It’s been quite a hectic first two weeks at Waterloo. When I say hectic, I mean THE BEST TIME EVER!!!
+keywords: first, week, classes, university, waterloo
 ---
 
 >Hey there everyone! It’s been quite a hectic first two weeks at Waterloo. When I say hectic, I mean THE BEST TIME EVER!!! Although my schedule is packed, I’m going to try my best to write weekly posts.
@@ -16,7 +18,7 @@ Afterwards, we had three consecutive lectures: MATH117 (Calculus), ECE105 (Physi
 
 The rest of the week was similar to Monday, tons of lectures and academics. I won’t comment too much about them because they’re quite boring!
 
-On Tuesday, my classmates and I discovered the Software Engineering lounge. It’s so cool that it needs a password to get in. The lounge has very comfy couches and even has a refrigerator. Several “softies” chilled in the room and socialized. I recall some of the guys karaoking to ‘Bohemian Rhapsody’ by Queen.
+On Tuesday, my classmates and I discovered the Software Engineering lounge. It’s so cool that it needs a password to get in. The lounge has very comfy couches and even has a refrigerator. Several “softies” chilled in the room and socialized. I recall some of the guys karaokeing to ‘Bohemian Rhapsody’ by Queen.
 
 Wednesday was special because there was a ‘Super Mega Software Class Get Together.’ There was a student from all 5 current Software classes at Waterloo. To sum up, it was a really nice event to get to know your classmates and upper-year students They provided us with fantastic advice and of course scared us a little bit. The Associate Director of Software Engineering even attended the event. A couple of people actually thought he was a student! With hindsight, I shouldn’t have eaten the whole box of Oreos. (The Freshman Fifteen is real.)
 

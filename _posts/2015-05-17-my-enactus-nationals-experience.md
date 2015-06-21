@@ -2,6 +2,8 @@
 layout: post
 title: My Enactus Nationals Experience
 permalink: my-enactus-nationals-experience
+description: Enactus Waterloo is a group of passionate students dedicated to improving the quality of life and standard of living through innovative engineering solutions
+keywords: Enactus, nationals, Waterloo, competition, engineering, business, leader
 ---
 
 **What a difference a year makes.**

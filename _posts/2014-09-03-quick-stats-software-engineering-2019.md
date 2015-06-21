@@ -2,6 +2,8 @@
 layout: post
 title: Quick Stats Software Engineering Class of 2019
 permalink: quick-stats-software-engineering-2019
+description: At the University of Waterloo, Software Engineering is an independent, interdisciplinary program supported by both the Faculty of Mathematics and Engineering.
+keywords: software, engineering, waterloo, university
 ---
 
 The program director, Andrew Morton, revealed some stats about this year’s Software Engineering students.

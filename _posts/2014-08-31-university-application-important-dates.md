@@ -2,6 +2,8 @@
 layout: post
 title: University Application Important Dates
 permalink: university-application-important-dates
+description: This post covers the general timeline of the university application process. The Ontario University Fair runs from September 19th to 21st this year.
+keywords: university, application, process, timeline
 ---
 
 As I start my first day of university tomorrow, I’d like to share with you grade 12’s the process of applying to university. This post will be a brief timeline and will only contain information about Ontario universities. I didn’t apply to Out of Province universities so I’m not knowledgable about that. By the way, I went to a semestered school in Ontario.

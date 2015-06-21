@@ -2,6 +2,8 @@
 layout: post
 title: End of 1A Reflections
 permalink: end-of-1a-reflections
+description: I am truly having the time of my life. It’s been one heck of a term, and I’m glad it’s finally over. I’m looking forward to spending a nice Winter Break.
+keywords: Waterloo, engineering, 1A, fun
 ---
 
 >I know I’ve said this a million times already, but time flies in university. I remember after the second week of school, I was calculating what 2 divided by 13 was in my head. The answer? 15% of the way through 1A. I still find it hard to believe how that was three whole months ago.

@@ -2,6 +2,8 @@
 layout: post
 title: Five Important Life Qualities
 permalink: five-important-life-qualities
+description: Believe it or not, the environment you’re in shapes your past, present and future. Every individual who you interact with affects your life in some way.
+keywords: success, failure, decision, improve, motivate, life, qualities
 ---
 
 ## 1. Don't be a dick.

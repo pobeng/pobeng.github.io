@@ -2,6 +2,8 @@
 layout: post
 title: Waterloo Open House Fall 2014
 permalink: waterloo-open-house-fall-2014
+description: An estimated total of over 11,000 people attended Waterloo’s Fall Open House 2014. It just astonishes me how much Waterloo grows every single year.
+keywords: waterloo, fall, open, house, 2014, engineering
 ---
 
 An estimated total of over 11,000 people attended Waterloo’s Fall Open House 2014. This represents a new record, and it just astonishes me how much Waterloo grows every single year. I volunteered for the entire day as the department lead ambassador for Software Engineering, so it’s very likely that I met many of my readers in person.

@@ -2,6 +2,8 @@
 layout: post
 title: Residence Move In Day
 permalink: residence-move-in-day
+description: It’s 7:00am and right now I’m in the car leaving off to Waterloo. I will be living in residence at the University of Waterloo, a single room in Village 1.
+keywords: residence, Waterloo, University, village,
 ---
 
 It’s 7:00am and right now I’m in the car leaving off to Waterloo. I will be living in a single room in Village 1. I will cover the topic of residences in a future post!

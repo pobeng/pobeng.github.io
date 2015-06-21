@@ -2,6 +2,8 @@
 layout: post
 title: Halfway Through 1A Waterloo Engineering
 permalink: halfway-through-1a-waterloo-engineering
+description: Sorry that I haven’t posted anything in the past month. School and life has been extraordinarily busy! Remember when I mentioned how time flies?
+keywords: engineering, waterloo, busy, life, school
 ---
 
 >Hey everyone! Sorry that I haven’t posted anything in the past month. School and life has been extraordinarily busy! Remember when I mentioned how time flies? Well, it’s exactly how my life is right now. It feels as if the beginning of October was just yesterday.

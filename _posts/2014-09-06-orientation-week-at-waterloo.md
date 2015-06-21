@@ -2,6 +2,8 @@
 layout: post
 title: Orientation Week at Waterloo
 permalink: orientation-week-at-waterloo
+description: Moving in and saying goodbye to my parents was quite bittersweet. I’m going to miss living with them, but I’m also going to enjoy every single moment.
+keywords: orientation, week, waterloo, move, residence
 ---
 
 >Today is day 6 of my Waterloo experience! Here’s a recap of my journey so far.
