@@ -1,0 +1,52 @@
+---
+layout: post
+title: How to Evaluate an Internship
+permalink: how-to-evaluate-an-internship
+description: In this blog post, I discuss the 5 factors I use to evaluate an internship.
+keywords: co-op, internship, Axon, product manager, intern, Waterloo, software engineering, Seattle, Axon
+---
+
+Two months ago, I began my internship at Axon as a product manager on the RMS team. In this blog post, I will share some insights on what it's like to work at Axon, and also discuss what to consider when evaluating an internship.
+
+![Axon ](/assets/axon.png)
+
+<!--more-->
+
+Photo credit: [GeekWire](https://www.geekwire.com/2015/photos-inside-spaceship-themed-seattle-office-of-police-body-camera-maker-axon/)
+
+## Internship recap
+
+On my first day at Axon, it felt like I walked into a spaceship rather than going to new hire orientation. The offices in both Scottsdale and Seattle are the coolest offices I've ever seen. To get inside, you need to scan your eyes - this literally feels like it's from a movie scene.
+
+In my first week, I spent most of my time onboarding: logistical items, getting familiar with the policing
+industry and the RMS product we're building, as well as understanding the team dynamics. It's fair to say that week 1 was the least exciting week in terms of productivity, but I was off to the races soon after.
+
+I'm on the RMS team, where we're building a Record Management solution for law enforcement. This [article](http://www.prnewswire.com/news-releases/axon-gives-accelerate-attendees-exclusive-first-look-at-new-rms-solution-300476367.html) provides a good overview of our product. It's very encouraging to hear from both Axon leadership and real law enforcement agencies that what we're building is going to change the industry. It's also incredible to witness the rapid growth of the team - it feels like there's a new engineer joining our team every other week.
+
+My favorite part about working at Axon is definitely the police ride-alongs and on-site agency visits. It's always fun to travel across different parts of the country and observe the problems police officers are facing first hand. Most of the software I've seen at these agencies are around the same age as me!
+
+Overall, it's been a fantastic experience interning in Axon's Seattle office, and it's bittersweet that there's only two months left. I want to spend the second half of this post discussing the 5 factors I consider when evaluating an internship. They're listed below in order of most significance to least.
+
+## What to consider when evaluating an internship
+
+**1. Meaningful work**
+
+I think of this category as two parts. First, is the project I'm working on meaningful to the company? Second, is the project I'm working on meaningful to society? I typically compare my internship to a full-time position, with the only difference being that my internship ends after four months. I want to work on projects that are high priority and provide value to the company, rather than “intern projects” that are abandoned after the internship. I also find personal satisfaction in work that solves real, meaningful problems. The work I'm doing for the RMS team definitely fulfills these two criteria.
+
+**2. Culture**
+
+When I refer to culture, I'm not referring to free food or ping pong tables. I mainly care about the people I work with and the company's values. What's the office vibe like? How are the people? Would I be happy working in this type of environment? What's the work-life balance like? It's difficult to assess the culture without working there, but I'd highly recommend trying to learn about the company's cultures in each of your internship interviews. If an interviewer struggles with describing the company's culture, that would be a significant red flag in my decision. At Axon, it's a pleasure working with really talented and chill people. Overall, it's just a very great office atmosphere to be a part of.
+
+**3. Mentorship**
+
+As an intern who's typically inexperienced, you should actively be seeking mentorship. This includes weekly syncs, regular 1 on 1's with your manager, and receiving formal feedback on your work. Your manager or mentor will help keep you on track with your project, as well as teaching you invaluable professional skills. If you proactively seek mentorship, there should be no surprises at the end of your internship review, as you'll have maintained frequent communication. Mentorship was an important factor when I was considering Axon, and something I brought up to my interviewer, who happens to be my current manager. So far, I've been pleased with the mentorship from my manager and mentor, both who I work frequently with.
+
+**4. Location**
+
+As an individual who loves travelling and trying new experiences, the location of my internship was a significant factor. I've interned in Waterloo, New York, and California before, so it was a no-brainer to experience the lovely Seattle summer. Working in many different places have helped me realize where I would want to live or not want to live after graduation.
+
+**5. Compensation**
+
+Unless you're really in need for money, I believe this factor is the least significant to consider during an internship. Obviously, compensation is really important, but at this point in my life, learning and building connections is the top priority. You have the rest of your life to make money, so the differences in compensation between internship offers will be negligible in the long term. Choose the best learning opportunity, not the money. Shameless self-plug: check out [InternCompass](https://interncompass.io/) for internship reviews and compensation.
+
+As you can tell, I've been having a great time at Axon, as it's checked off all 5 items on my checklist. If you have any questions, please shoot me a message!

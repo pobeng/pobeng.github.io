@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {% include head.html %}
+  {% include google_analytics.html %}
+
+  <body>
+
+    <div class="container content">
+      <header class="masthead">
+        <h1 class="masthead-title">
+          <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
+          {% for page in site.pages_list %}
+            <small><a href="{{ page[1]  }}">{{ page[0] }}</a></small>
+          {% endfor %}
+        </h1>
+        <small>{{ site.tagline }}</small>
+      </header>
+
+      <main>
+        {{ content }}
+      </main>
+
+      <footer class="footer">
+        <small>
+          Copyright &copy; <time datetime="{{ site.time | date_to_xmlschema }}">Bo Peng {{ site.time | date: '%Y' }}</time>.
+        </small>
+      </footer>
+    </div>
+  </body>
+</html>

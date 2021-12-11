@@ -1,0 +1,38 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:               Bo Peng
+tagline:             Computer Science 2018, University of Waterloo
+url:                 https://bopeng.io
+enforce_ssl:         bopeng.io
+plugins: [jekyll-paginate]
+paginate:            5
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Bo Peng
+  url:               bopeng.io
+  email:             bo.peng@uwaterloo.ca
+  twitter:           _bopeng
+
+# Custom vars
+version:             1.0.0
+github:              pobeng
+repo:                https://github.com/pobeng/pobeng.github.io
+
+# Top nav bar
+pages_list:
+  About: '/about/'
+  Blog: '/blog/'
+  Contact: '/contact/'

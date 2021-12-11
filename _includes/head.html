@@ -1,0 +1,43 @@
+<head>
+  <script type="text/javascript">
+    var host = "bopeng.io";
+    if ((host == window.location.host) && (window.location.protocol != "https:"))
+        window.location.protocol = "https";
+  </script>
+  <meta charset="UTF-8">
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <link rel="canonical" href="{{site.url}}{{page.url}}"/>
+
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>
+    {% if page.title == "Home" %}
+      {{ site.title }} &middot; {{ site.tagline }}
+    {% else %}
+      {{ page.title }} &middot; {{ site.title }}
+    {% endif %}
+  </title>
+
+  <!-- Meta data for SEO -->
+  {% if page.description %}
+    <meta name="description" content="{{ page.description }}">
+  {% else %}
+    <meta name="description" content="Bo Peng is a Software Engineering student at the University of Waterloo. I am passionate about technology, entrepreneurship and helping others.">
+  {% endif %}
+  {% if page.keywords %}
+    <meta name="keywords" content="{{ page.keywords }}">
+  {% else %}
+    <meta name="keywords" content="Bo, Peng, waterloo, software, engineering, blog, aif, co-op, enactus">
+  {% endif %}
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="{{ site.baseurl }}/styles.css">
+
+  <!-- Icons -->
+  <link rel="pen-icon" sizes="144x144" href="{{ site.baseurl }}/assets/pen-icon.png">
+  <link rel="shortcut icon" href="{{ site.baseurl }}/assets/favicon.ico">
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ site.baseurl }}/atom.xml">
+</head>
