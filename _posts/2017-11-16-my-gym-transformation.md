@@ -136,13 +136,6 @@ I've been in New York for a month now. Weight is going up at around a controlled
 
 <br>
 
-Weight gain progress is still going fairly well. Getting some inevitable fat on my belly. Shoulders looking quite nice in this photo!
-
-<center><img src="/assets/20180307.png" width="400"></center>
-
-<center><i>March 7, 2018</i></center>
-
-<br>
 
 I reached 170lbs today, and found some good lighting. Crushed 2 PR's today. Hit 280x5 squat and 375x5 deadlift. I hurt my wrist two weeks ago trying to unrack the weights from the ground directly to the bench pins, without taking off the weights. As a result, I haven't been benching or any push movements. I hope it'll get better in the next month. :(
 
